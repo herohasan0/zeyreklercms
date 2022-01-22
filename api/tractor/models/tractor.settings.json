@@ -59,6 +59,10 @@
     "Ruhsat": {
       "type": "string",
       "default": "Belirtilmedi"
+    },
+    "Kimden_Geldi": {
+      "type": "string",
+      "default": "Belirtilmedi"
     }
   }
 }
