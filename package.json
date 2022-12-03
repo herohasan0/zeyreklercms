@@ -22,7 +22,7 @@
     "strapi-connector-mongoose": "3.0.5"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "A Strapi developer "
   },
   "strapi": {
     "uuid": "a397f097-4779-453f-93b5-18166610d039"
